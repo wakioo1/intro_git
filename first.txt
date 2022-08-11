@@ -2,3 +2,4 @@ first.txt
 2回目
 .git add
 .git commit
+.git rm
